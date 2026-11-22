@@ -89,13 +89,3 @@ export const quizzes: StudyQuiz[] = [//data san quizzes
     description: 'Designing, developing, testing, and maintaining software', 
     questionCount: 30 },
 ];
-
-export const week = [//an sa week sa home para sa days na my check 
-  { day: 'M', done: true },
-  { day: 'T', done: true },
-  { day: 'W', done: true },
-  { day: 'T', done: true },
-  { day: 'F', done: false },
-  { day: 'S', done: false },
-  { day: 'S', done: false },
-];
